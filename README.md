@@ -19,9 +19,15 @@ This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) undergrad.
 
 # Programming / Markup Languages
 
-Relative Proficiency: C++ >> C#, Kotlin, Java > Python, PowerShell, Bash, CMake, HTML, CSS, JavaScript > SQL
+## Relative Proficiency
 
-Top Preferences: C++, C#, Kotlin, PowerShell
+C++ >> C, C#, Kotlin, Java > Python, PowerShell, Bash, CMake, HTML, CSS, JavaScript > SQL
+
+Know something about Modern C++.
+
+## Top Preferences
+
+C++, C#, Kotlin, PowerShell
 
 ## Most Used Languages of Public GitHub Repos
 
