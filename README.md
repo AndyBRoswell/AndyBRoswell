@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Introduction
 
-This is Andy Bayer Roswell, a CSE undergrad.
+This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) undergrad.
 
 # Programming / Markup Languages
 
@@ -23,6 +23,6 @@ Relative Proficiency: C++ >> C#, Kotlin, Java > Python, PowerShell, Bash, CMake,
 
 Top Preferences: C++, C#, Kotlin, PowerShell
 
-## Programming Languages of Public GitHub Repos
+## Most Used Languages of Public GitHub Repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybroswell&langs_count=99999999999999999999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
