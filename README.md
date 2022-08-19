@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🔊MUST-SEES‼️
+
+- CS 自救指南 CS First Aid: A Vital Guide for CSE Students https://github.com/AndyBRoswell/cs-first-aid
+
 # Introduction
 
 This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) undergrad.
