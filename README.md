@@ -33,6 +33,8 @@ Know something about Modern C++.
 
 C++, C#, Kotlin, PowerShell
 
+<!--
 ## Most Used Languages of PUBLIC GitHub Repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybroswell&langs_count=99999999999999999999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
