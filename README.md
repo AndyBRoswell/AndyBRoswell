@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Introduction
 
-This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) undergrad.
+This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) postgraduate student.
 
 # Programming / Markup Languages
 
