@@ -25,7 +25,7 @@ This is Andy Bayer Roswell, a Computer Science and Engineering (CSE) postgraduat
 
 ## Relative Proficiency
 
-C++, C, C#, Kotlin, Java, Python, JavaScript, HTML / XAML > PowerShell, CSS, Julia, R, SQL > CMake, Bash
+C++, C, C#, Kotlin, Java, Python, JavaScript, HTML / XAML, PowerShell > CSS, Julia, R, SQL > CMake, Bash
 
 Know something about Modern C++.
 
